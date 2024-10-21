@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dinet", "Dinet.csproj", "{7F9D437B-A9D7-4ECF-A734-5A4C627936A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F9D437B-A9D7-4ECF-A734-5A4C627936A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F9D437B-A9D7-4ECF-A734-5A4C627936A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F9D437B-A9D7-4ECF-A734-5A4C627936A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F9D437B-A9D7-4ECF-A734-5A4C627936A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E43A37CE-569A-4025-BD18-55427C107995}
+	EndGlobalSection
+EndGlobal
